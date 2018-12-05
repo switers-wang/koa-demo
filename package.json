@@ -1,0 +1,23 @@
+{
+  "name": "koa-demo",
+  "version": "1.0.0",
+  "description": "koa demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/switers-wang/koa-demo.git"
+  },
+  "author": "wangxupeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/switers-wang/koa-demo/issues"
+  },
+  "homepage": "https://github.com/switers-wang/koa-demo#readme",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-route": "^3.2.0"
+  }
+}
